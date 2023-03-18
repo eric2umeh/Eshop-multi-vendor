@@ -1,1 +1,1 @@
-# e-shop-multi-vendor
+# Eshop-multi-vendor
